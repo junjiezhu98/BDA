@@ -18,15 +18,17 @@ e.RandomForestClassifier
 f.MulticlassClassificationEvaluator
 
 For the mini project:
+
 6. Calculation of air quality index based on pollutant content data
 a.UDF
-7. Regression algorithm prediction of air quality index
+
+8. Regression algorithm prediction of air quality index
 a.LinearRegressor
 b.DecisionTreeRegressor
 c.RandomForestRegressor
 d.Regression Evaluator
-8. Classification of air quality on the basis of the air quality index
-9. Apply classifier algorithm to air quality class
+9. Classification of air quality on the basis of the air quality index
+10. Apply classifier algorithm to air quality class
 a.NaiveBayes
 b.MultilayerPerceptronClassifier
 c.DecisionTreeClassifier
