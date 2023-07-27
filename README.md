@@ -3,7 +3,7 @@ Continuous hourly air quality data is collected from 12 monitoring points in Bei
 
 In the project, the specific content is as follows,
 1. Read and clean the data
-2.Analysis of outlier
+2. Analysis of outlier
 3. Add a time series to the data and analyze the temperature in group by time
 4. Cluster analysis on the pollutant pm2.5
 a. Kmeans
